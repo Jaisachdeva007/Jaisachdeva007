@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jai Sachdeva and I'm an undergraduate Bachelors Of Computer Science Student at Dalhousie University, from India living in Canada.</h2>
+<h2 align="left">Hi 👋! My name is Jai Sachdeva and I'm an undergraduate Bachelors Of Computer Science Student at Dalhousie University.</h2>
 
 ###
 
